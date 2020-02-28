@@ -212,7 +212,7 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dzoQWPj.png" group-title="INDONESIA",BBC Earth
-https://www.doofree88.com/streaming/sd-bbcearth_720/index.m3u8
+#https://www.doofree88.com/streaming/sd-bbcearth_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Infotainment",TLC
 http://ott.artmott.com/TLC/tracks-v1a1/mono.m3u8
@@ -324,10 +324,10 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
-http://123.30.146.182:8080/hbo/video.m3u8
+#http://123.30.146.182:8080/hbo/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="Movies",Fox Movies Premium
-http://123.30.146.182:8080/foxmovie/video.m3u8
+#http://123.30.146.182:8080/foxmovie/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits
 #https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
