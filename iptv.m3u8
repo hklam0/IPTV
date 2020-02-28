@@ -161,27 +161,25 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ctv-news-live.jpg" group-title="TAIWAN",中視新聞台
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="新闻台",華視新聞
-
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTSNews.m3u8
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTSNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg",民視新聞台
 http://210.61.56.23/hls/ftvtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="新闻台",台視新聞
-
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F.png" group-title="新闻台",台視財經
-https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+#https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻台",東森新聞
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EBCNews.m3u8
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EBCNews.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="新闻台",東森財經
 rtmp://59.124.75.156/sat/tv571
@@ -191,7 +189,7 @@ rtmp://59.124.75.156/sat/tv521
 #https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTINews.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="新闻台",三立新聞
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="新闻台",TVBS新聞
 rtmp://59.124.75.156/sat/tv551
@@ -271,11 +269,11 @@ http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
-http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR-avc1_2200000=15-mp4a_96000_eng=6.m3u8
+#http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR-avc1_2200000=15-mp4a_96000_eng=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="KIDS",Nickelodeon
-#http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
-http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon-avc1_2200000=16-mp4a_96000_eng=5.m3u8
+http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
+#http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon-avc1_2200000=16-mp4a_96000_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",Nicktoons
 https://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_2200000=9-mp4a_96000_eng=2.m3u8
@@ -288,7 +286,7 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel-avc1_2200000=12-mp4a_96000_eng=1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="Kids/Animation",Disney Junior
-http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior-avc1_2200000=13-mp4a_96000_eng=7.m3u8
+#http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior-avc1_2200000=13-mp4a_96000_eng=7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VSUbSDi.png" group-title="UK",Disney XD
 #http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_2200000=12-mp4a_96000_eng=5.m3u8
@@ -359,6 +357,8 @@ http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="Movies",Hits
 #https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
 
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SciFi.hr.png" group-title="Movies",Scifi
+http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 
 #########################ENTERTAINMENT#####################
 
