@@ -206,7 +206,7 @@ https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cns.net.tw/web/upload/201703100933512axVLmF.jpg" group-title="Infotainment",Discovery Asia
-https://www.doofree88.com/streaming/hd-discovery_720/index.m3u8
+#https://www.doofree88.com/streaming/hd-discovery_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6lUbvh.png" group-title="Infotainment",Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
@@ -216,7 +216,7 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #https://www.doofree88.com/streaming/sd-bbcearth_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/320px-BBC_Lifestyle2.svg.png" group-title="INDONESIA",BBC Lifestyle
-https://www.doofree88.com/streaming/sd-bbclifestyle_720/index.m3u8
+#https://www.doofree88.com/streaming/sd-bbclifestyle_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Infotainment",TLC
 http://ott.artmott.com/TLC/tracks-v1a1/mono.m3u8
@@ -310,7 +310,7 @@ rtmp://59.124.75.156/sat/tv761
 #################################Movies##########################
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch140_110_80.png" group-title="INDONESIA",衛視卡式台
-https://www.doofree88.com/streaming/sd-starchineselegend_480/index.m3u8
+#https://www.doofree88.com/streaming/sd-starchineselegend_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch139_110_80.png" group-title="INDONESIA",衛視電影台
 #https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_2499968=12-mp4a_98800_eng=3.m3u8
@@ -331,16 +331,16 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10
 #http://123.30.146.182:8080/hbo/video.m3u8
 
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="Movies",Fox Movies Premium" group-title="Movies",Fox Action Movies
-https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
+#https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="Movies",Fox Movies Premium
-https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
+#https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png" group-title="Movies",Fox Family Movies
-https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
+#https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Movies",HBO
-https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
+#https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits
 #https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
@@ -381,18 +381,18 @@ http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/54CRycL.png" group-title="INDONESIA",FX
-https://www.doofree88.com/streaming/hd-fxeng_480/index.m3u8
+#https://www.doofree88.com/streaming/hd-fxeng_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOX.us.png" group-title="Entertainment",FOX
 #http://213.252.252.2/live/eds/FOX/HLS_encr/FOX-avc1_2200000=6-mp4a_96000_eng=2.m3u8
-https://www.doofree88.com/streaming/sd-fox_720/index.m3u8
+#https://www.doofree88.com/streaming/sd-fox_720/index.m3u8
 #https://anevia115.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/FoxCrime.pt.png" group-title="Entertainment",FOX Crime
-https://www.doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
+#https://www.doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WY2deTP.png" group-title="INDONESIA",Fox Life
-https://www.doofree88.com/streaming/hd-foxlife_720/index.m3u8
+#https://www.doofree88.com/streaming/hd-foxlife_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime & Investigation
 http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
@@ -420,7 +420,7 @@ http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="中国",thrill
-https://www.doofree88.com/streaming/sd-thrill_480/index.m3u8
+#https://www.doofree88.com/streaming/sd-thrill_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="Movies",Warner TV
 #https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
@@ -439,7 +439,7 @@ rtmp://59.124.75.156/sat/tv771
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="臺灣",TVBS 歡樂台
 rtmp://59.124.75.156/sat/tv421
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Star_Chinese_Channel_20161218.png" group-title="臺灣",衛視中文台
-https://www.doofree88.com/streaming/sd-starchinesechannel_480/index.m3u8
+#https://www.doofree88.com/streaming/sd-starchinesechannel_480/index.m3u8
 
 ######SPORTS############
 #EXTINF:-1 tvg-logo="https://www.sports2world.com/images/hksc_logo.png" group-title="Sports",體通天下
@@ -455,31 +455,31 @@ http://wowgua.com/live/channel_sports2world.m3u8
 http://npse.brots.world/espn2.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Asia
-https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
+#https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
 #https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 Asia
-https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
+#https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
 #https://anevia115.mncnow.id:443/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3 Asia
-https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
+#https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
 #https://anevia115.mncnow.id:443/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="AUSTRALIA",Fox Sports
 #https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Sports",Sky Sports F1
-https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
+#https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="Sports",Sky Sports Main Event
-https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+#https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="Sports",Sky Sports Mix
-https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
+#https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Football",Sky Sports EPL
-https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
+#https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Football",Sky Sports Football
 https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
@@ -488,18 +488,18 @@ https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
 https://www.doofree88.com/streaming/uk-skysports-golf_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
-https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
+#https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
-https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
+#https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcPajXf.png" group-title="UK",beIN Sports 1
 #https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
-https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
+#https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6bQw2g1.png" group-title="UK",beIN Sports 2
 #https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
-https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
+#https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf",NBC Golf
 http://claro2-pi-dns.herokuapp.com/master.php?id=40&f=.m3u8
