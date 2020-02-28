@@ -417,7 +417,7 @@ rtmp://59.124.75.156/sat/tv701
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="臺灣",緯來日本
 rtmp://59.124.75.156/sat/tv771
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E7%B2%BE%E9%87%87.png" group-title="臺灣",TVBS 歡樂
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="臺灣",TVBS 歡樂台
 rtmp://59.124.75.156/sat/tv421
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Star_Chinese_Channel_20161218.png" group-title="臺灣",衛視中文台
 https://www.doofree88.com/streaming/sd-starchinesechannel_480/index.m3u8
@@ -491,8 +491,11 @@ http://claro2-pi-dns.herokuapp.com/master.php?id=57&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.abv.com.tw/wp-content/uploads/2018/12/ELEVEN-SPORT-PLUS-1.jpg" group-title="体育",11 Sports Plus
 rtmp://59.124.75.156/sat/md011
 
-#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="体育",愛爾達體育3台
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_4ff53e627ce28c4ba535c0c8e2178da8.png" group-title="体育",愛爾達體育1台
 rtmp://59.124.75.156/sat/md041
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-yRTRB33hEwU/WyeGAwga5FI/AAAAAAAACqk/mRcwtrxauuASgXAxynbE7CoCP5qvx3ScgCLcBGAs/s1600/CH%2B072.png" group-title="体育",愛爾達體育2台
+rtmp://59.124.75.156/sat/md051
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="体育",博博斯運動一
 rtmp://59.124.75.156/sat/md031
