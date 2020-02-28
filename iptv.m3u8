@@ -10,10 +10,7 @@ http://teslagram.com/live/channel_331.m3u8
 http://teslagram.com/live/channel_630.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch99_110_80.png" group-title="HK",ViuTV
-#https://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-https://pastebin.com/raw/vA6TLyCV
-#http://teslagram.com/live/channel_99.m3u8
-#http://live.ergt4rt.wang/gangaotai.php?id=8
+http://teslagram.com/live/channel_99.m3u8
 
 #EXTINF:-1 tvg-logo="http://cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="HK",有線新聞台
 http://teslagram.com/live/channel_109.m3u8
