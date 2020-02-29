@@ -253,13 +253,13 @@ http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nclm5RF.png" group-title="RUSSIA",Viasat Explore HD
-http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-avc1_5000000=9-mp4a_96000_eng=1.m3u8
+#http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-avc1_5000000=9-mp4a_96000_eng=1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Polsat_Viasat_History_HD_logo.png",Viasat History HD
-https://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-avc1_5000000=9-mp4a_96000_eng=2.m3u8
+#https://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-avc1_5000000=9-mp4a_96000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Polsat_Viasat_Nature_logo.png",Viasat Nature
-http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-avc1_2200000=24-mp4a_96000_eng=12.m3u8
+#http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-avc1_2200000=24-mp4a_96000_eng=12.m3u8
 
 ########KIDS########################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
@@ -282,7 +282,7 @@ http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
 #http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon-avc1_2200000=16-mp4a_96000_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",Nicktoons
-https://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_2200000=9-mp4a_96000_eng=2.m3u8
+#https://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_2200000=9-mp4a_96000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="USA",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
@@ -296,7 +296,7 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VSUbSDi.png" group-title="UK",Disney XD
 #http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_2200000=12-mp4a_96000_eng=5.m3u8
-http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_1200000=10-Disney_XD-mp4a_96000_eng=5.m3u8
+#http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_1200000=10-Disney_XD-mp4a_96000_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="Kids/Animation",Animax
 #https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-Animax-mp4a_98800_eng=3.m3u8
@@ -445,7 +445,7 @@ rtmp://59.124.75.156/sat/tv421
 
 ######SPORTS############
 #EXTINF:-1 tvg-logo="https://www.sports2world.com/images/hksc_logo.png" group-title="Sports",體通天下
-http://wowgua.com/live/channel_sports2world.m3u8
+http://teslagram.com/live/channel_sports2world.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sports",Eurosport 1
 #http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
@@ -549,10 +549,10 @@ http://www.szdznet.cn/tv/tm2.php?id=GDSport
 ###########MUSIC
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" ,MTV Hits
-http://213.252.252.17/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#http://213.252.252.17/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png",VH1
-https://185.176.117.243/live/eds/VH1/HLS_encr/VH1-avc1_2200000=53-mp4a_96000_eng=46.m3u8
+#https://185.176.117.243/live/eds/VH1/HLS_encr/VH1-avc1_2200000=53-mp4a_96000_eng=46.m3u8
 
 ##########
 #EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/201912121738393mwv.png" group-title="粵語",廣東经济科教
