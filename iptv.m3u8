@@ -164,22 +164,22 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ctv-news-live.jpg" group-title="TAIWAN",中視新聞台
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="新闻台",華視新聞
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTSNews.m3u8
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTSNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg",民視新聞台
 http://210.61.56.23/hls/ftvtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="新闻台",台視新聞
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F.png" group-title="新闻台",台視財經
 https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻台",東森新聞
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EBCNews.m3u8
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EBCNews.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="新闻台",東森財經
 rtmp://59.124.75.156/sat/tv571
