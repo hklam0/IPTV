@@ -456,6 +456,9 @@ http://teslagram.com/live/channel_sports2world.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ESPN.nz.png" group-title="Sports",ESPN
 http://npse.brots.world/espn2.m3u8
 
+http://npse.brots.world/espn1.m3u8
+http://npse.brots.world/mtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Asia
 #https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
 #https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
@@ -504,21 +507,21 @@ http://npse.brots.world/espn2.m3u8
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf",NBC Golf
-http://claro2-pi-dns.herokuapp.com/master.php?id=40&f=.m3u8
+#http://claro2-pi-dns.herokuapp.com/master.php?id=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/LaLigaTV.es.png" group-title="Football",La Liga TV
-http://claro2-pi-dns.herokuapp.com/master.php?id=57&f=.m3u8
+#http://claro2-pi-dns.herokuapp.com/master.php?id=57&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.abv.com.tw/wp-content/uploads/2018/12/ELEVEN-SPORT-PLUS-1.jpg" group-title="体育",11 Sports Plus
-rtmp://59.124.75.156/sat/md011
+#rtmp://59.124.75.156/sat/md011
 
 #EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_4ff53e627ce28c4ba535c0c8e2178da8.png" group-title="体育",愛爾達體育1台
-rtmp://59.124.75.156/sat/md041
+#rtmp://59.124.75.156/sat/md041
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-yRTRB33hEwU/WyeGAwga5FI/AAAAAAAACqk/mRcwtrxauuASgXAxynbE7CoCP5qvx3ScgCLcBGAs/s1600/CH%2B072.png" group-title="体育",愛爾達體育2台
-rtmp://59.124.75.156/sat/md051
+#rtmp://59.124.75.156/sat/md051
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="体育",博博斯運動一
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="体育",博斯網球
 rtmp://59.124.75.156/sat/md031
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="体育台",博斯魅力網
