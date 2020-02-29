@@ -57,6 +57,53 @@ rtmp://59.124.75.156/sat/tv111
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="臺灣",民視
 rtmp://59.124.75.156/sat/tv051
 
+#EXTINF:-1 tvg-logo="https://www.twmbroadband.com/images/programlogo/MOMOTVV.jpg" group-title="臺灣",MOMO 綜合台
+rtmp://59.124.75.156/sat/tv761
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="臺灣",緯來育樂
+rtmp://59.124.75.156/sat/tv701
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="臺灣",緯來日本
+rtmp://59.124.75.156/sat/tv771
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="臺灣",TVBS 歡樂台
+rtmp://59.124.75.156/sat/tv421
+
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ctv-news-live.jpg" group-title="TAIWAN",中視新聞台
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="新闻台",華視新聞
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTSNews.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg",民視新聞台
+http://210.61.56.23/hls/ftvtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="新闻台",台視新聞
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F.png" group-title="新闻台",台視財經
+https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻台",東森新聞
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EBCNews.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="新闻台",東森財經
+rtmp://59.124.75.156/sat/tv571
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="新闻台",中天新聞
+rtmp://59.124.75.156/sat/tv521
+#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTINews.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="新闻台",三立新聞
+http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="新闻台",TVBS新聞
+rtmp://59.124.75.156/sat/tv551
+#http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="新闻台",臺新聞
+https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+
 ##############group-title="Singapore"
 
 #EXTINF:-1 tvg-logo="https://video.toggle.sg/image/5253176/16x9/947/533/b49cfbbdfadcac8183438a67da78f60a/Ef/channel-5.png" group-title="Singapore",Channel 5 Singapore
@@ -107,10 +154,10 @@ http://203.162.235.41:16917
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="Financial News",Bloomberg US
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="Financial News",Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" group-title="SG",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -155,48 +202,15 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Australia Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Australia Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Australia Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ctv-news-live.jpg" group-title="TAIWAN",中視新聞台
-#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="新闻台",華視新聞
-#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTSNews.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg",民視新聞台
-http://210.61.56.23/hls/ftvtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="新闻台",台視新聞
-#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F.png" group-title="新闻台",台視財經
-https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻台",東森新聞
-#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EBCNews.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="新闻台",東森財經
-rtmp://59.124.75.156/sat/tv571
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="新闻台",中天新聞
-rtmp://59.124.75.156/sat/tv521
-#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTINews.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="新闻台",三立新聞
-http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="新闻台",TVBS新聞
-rtmp://59.124.75.156/sat/tv551
-#http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="新闻台",臺新聞
-https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 
 #############################Learning#########################
 
@@ -304,8 +318,7 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Pop.uk.png" group-title="UK",Pop
 http://51.52.156.22:8888/http/015
 
-#EXTINF:-1 tvg-logo="https://www.twmbroadband.com/images/programlogo/MOMOTVV.jpg" group-title="臺灣",MOMO 綜合台
-rtmp://59.124.75.156/sat/tv761
+
 
 #################################Movies##########################
 
@@ -437,14 +450,7 @@ https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/KBSWorld.us.png" group-title="한국",KBS World
 #http://203.162.123.178:8080/kbsw/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="臺灣",緯來育樂
-rtmp://59.124.75.156/sat/tv701
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="臺灣",緯來日本
-rtmp://59.124.75.156/sat/tv771
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="臺灣",TVBS 歡樂台
-rtmp://59.124.75.156/sat/tv421
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Star_Chinese_Channel_20161218.png" group-title="臺灣",衛視中文台
 #https://www.doofree88.com/streaming/sd-starchinesechannel_480/index.m3u8
