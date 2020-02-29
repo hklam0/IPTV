@@ -370,7 +370,7 @@ http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
 #https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="Movies",Hits
-#https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
+http://210.210.155.66/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SciFi.hr.png" group-title="Movies",Scifi
 http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
@@ -411,7 +411,13 @@ http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvRrcXy.png", KIX
-#https://anevia115.mncnow.id:443/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+http://210.210.155.66/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/asia.setone/files/sonysetone_logo.png" group-title="Singapore/Malaysia",Sony One
+http://210.210.155.66/h/h143/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" group-title="Singapore/Malaysia",Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="中国",星空衛視
 #https://anevia115.mncnow.id:443/live/eds/XingKongTV/sa_hls/XingKongTV-avc1_1000000=11-mp4a_98800_eng=5.m3u8
