@@ -10,7 +10,7 @@ http://teslagram.com/live/channel_331.m3u8
 http://teslagram.com/live/channel_630.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch99_110_80.png" group-title="HK",ViuTV
-http://teslagram.com/live/channel_99.m3u8
+#http://teslagram.com/live/channel_99.m3u8
 
 #EXTINF:-1 tvg-logo="http://cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="HK",有線新聞台
 http://teslagram.com/live/channel_109.m3u8
@@ -23,25 +23,25 @@ http://teslagram.com/live/channel_301.m3u8
 
 #EXTINF:-1 tvg-logo="http://cabletv.com.hk/file/tv_channel/_r100x30/p5bd2c55fa735e.png" group-title="HK",香港開電視
 #http://42.98.155.136:9981/stream/channelid/799625233
-http://teslagram.com/live/channel_77.m3u8
+#http://teslagram.com/live/channel_77.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3a/HKIBC_logo.png" group-title="HK",香港國際財經台
 #http://42.98.155.136:9981/stream/channelid/1889053119
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png" group-title="HK",港台電視31
-http://teslagram.com/live/channel_31.m3u8
+#http://teslagram.com/live/channel_31.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png" group-title="HK",港台電視32
-http://teslagram.com/live/channel_32.m3u8
+#http://teslagram.com/live/channel_32.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2529/5c88625335b13_1552441939.jpeg" group-title="HK",無綫新聞台
 #http://42.98.155.136:9981/stream/channelid/2025827684
-http://www.liveviptv.xyz/tv/tvb.php
+#http://www.liveviptv.xyz/tv/tvb.php
 #http://live.ergt4rt.wang/gangaotai.php?id=9
 
 #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861feec5509_1552293870.jpeg" group-title="HK",無綫財經 · 資訊台
 #http://42.98.155.136:9981/stream/channelid/1074652462
-http://live.ergt4rt.wang/gangaotai.php?id=10
+#http://live.ergt4rt.wang/gangaotai.php?id=10
 
 ##############group-title="Taiwan"
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png" group-title="臺灣",台視
