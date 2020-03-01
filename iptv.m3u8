@@ -227,7 +227,7 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dzoQWPj.png" group-title="INDONESIA",BBC Earth
-#https://www.doofree88.com/streaming/sd-bbcearth_720/index.m3u8
+http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/320px-BBC_Lifestyle2.svg.png" group-title="INDONESIA",BBC Lifestyle
 #https://www.doofree88.com/streaming/sd-bbclifestyle_720/index.m3u8
@@ -250,7 +250,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch223_110_80.png" group-title="Infotainment",History
-http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+#http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+http://160.119.77.50/iptv/hd-historyeng.stream/playlist.m3u8
 #https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="Learning",H2
@@ -667,5 +668,5 @@ http://203.162.235.41:16924
 #https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 ###########################################################TEST
-http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
-http://160.119.77.50/iptv/hd-historyeng.stream/playlist.m3u8
+
+
