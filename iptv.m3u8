@@ -135,7 +135,7 @@ https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.threenow.co.nz/dam/threefans/logos/Three_Watermelon.png" group-title="UK",Three TV
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
+#http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
 
 
 ########################NEWS#######
@@ -167,7 +167,7 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 #https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="News",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
+#https://live.cgtn.com/1000/prog_index.m3u8
 #http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="HK",CNBC
@@ -227,7 +227,7 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dzoQWPj.png" group-title="INDONESIA",BBC Earth
-http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
+#http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/320px-BBC_Lifestyle2.svg.png" group-title="INDONESIA",BBC Lifestyle
 #https://www.doofree88.com/streaming/sd-bbclifestyle_720/index.m3u8
@@ -250,8 +250,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch223_110_80.png" group-title="Infotainment",History
-#http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
-http://160.119.77.50/iptv/hd-historyeng.stream/playlist.m3u8
+http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+#http://160.119.77.50/iptv/hd-historyeng.stream/playlist.m3u8
 #https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="Learning",H2
@@ -428,10 +428,10 @@ http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 http://210.210.155.66/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/asia.setone/files/sonysetone_logo.png" group-title="Singapore/Malaysia",Sony One
-http://210.210.155.66/h/h143/01.m3u8
+#http://210.210.155.66/h/h143/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" group-title="Singapore/Malaysia",Sony Gem
-http://210.210.155.66/h/h19/01.m3u8
+#http://210.210.155.66/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="中国",星空衛視
 #https://anevia115.mncnow.id:443/live/eds/XingKongTV/sa_hls/XingKongTV-avc1_1000000=11-mp4a_98800_eng=5.m3u8
@@ -571,11 +571,11 @@ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/201912121738393mwv.png" group-title="粵語",廣東经济科教
 #http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173905zpXW.png" group-title="粵語",南方衛視
-http://nclive.grtn.cn/tvs2/playlist.m3u8
+#http://nclive.grtn.cn/tvs2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173944KLNW.png" group-title="粵語",廣東綜藝4K
-http://nclive.grtn.cn/4K/playlist.m3u8
+#http://nclive.grtn.cn/4K/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="粵語",珠江頻道
-http://nclive.grtn.cn/zjpd/playlist.m3u8
+#http://nclive.grtn.cn/zjpd/playlist.m3u8
 
 #################################CHINA
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",CCTV-4K 超高清
