@@ -70,35 +70,42 @@ rtmp://59.124.75.156/sat/tv771
 rtmp://59.124.75.156/sat/tv421
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ctv-news-live.jpg" group-title="TAIWAN",中視新聞台
-#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
+http://seb.sason.top/tv/zsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="新闻台",華視新聞
-#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTSNews.m3u8
+http://seb.sason.top/tv/hsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg",民視新聞台
 http://210.61.56.23/hls/ftvtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="新闻台",台視新聞
-#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
+http://seb.sason.top/tv/tsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F.png" group-title="新闻台",台視財經
 https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻台",東森新聞
-#https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EBCNews.m3u8
+http://seb.sason.top/tv/dsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="新闻台",東森財經
 rtmp://59.124.75.156/sat/tv571
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="新闻台",中天新聞
-rtmp://59.124.75.156/sat/tv521
+http://seb.sason.top/tv/ztxw_fhd.m3u8
+#rtmp://59.124.75.156/sat/tv521
 #https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTINews.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="新闻台",三立新聞
 http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv089_mobile_1014.png" group-title="新闻台",三立iNews
+http://seb.sason.top/tv/slinews_fhd.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1172478940960583684/fQGpkYHN_400x400.jpg" group-title="新闻台",三立Live
+http://seb.sason.top/tv/sllive_fhd.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="新闻台",TVBS新聞
-rtmp://59.124.75.156/sat/tv551
+http://seb.sason.top/tv/tvbsxw_fhd.m3u8
+#rtmp://59.124.75.156/sat/tv551
 #http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="新闻台",臺新聞
