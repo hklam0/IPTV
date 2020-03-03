@@ -206,6 +206,7 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News UK
 #http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+https://pastebin.com/raw/qs9zGgTp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZeC0jE4.png" group-title="AUSTRALIA",Sky News Australia
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
