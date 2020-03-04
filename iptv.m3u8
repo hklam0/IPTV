@@ -145,7 +145,8 @@ https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/ABC_News_Channel.png" group-title="AUSTRALIA",ABC News
-https://raw.githubusercontent.com/hklam0/IPTV/master/ABCNews.m3u8
+#https://raw.githubusercontent.com/hklam0/IPTV/master/ABCNews.m3u8
+https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.threenow.co.nz/dam/threefans/logos/Three_Watermelon.png" group-title="UK",Three TV
 #http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
