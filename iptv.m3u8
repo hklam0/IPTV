@@ -408,7 +408,7 @@ http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/54CRycL.png" group-title="INDONESIA",FX
-#https://www.doofree88.com/streaming/hd-fxeng_480/index.m3u8
+http://111.13.111.192/125.227.198.89:8027
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOX.us.png" group-title="Entertainment",FOX
 #http://213.252.252.2/live/eds/FOX/HLS_encr/FOX-avc1_2200000=6-mp4a_96000_eng=2.m3u8
