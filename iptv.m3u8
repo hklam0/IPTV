@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/hklam0/IPTV/master/SETiNews.m3u8
 https://raw.githubusercontent.com/hklam0/IPTV/master/SETLive.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="新闻台",TVBS新聞
-http://seb.sason.top/tv/tvbsxw_fhd.m3u8
+https://raw.githubusercontent.com/hklam0/IPTV/master/TVBSNews.m3u8
 #rtmp://59.124.75.156/sat/tv551
 #http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 
