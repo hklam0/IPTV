@@ -132,6 +132,49 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 
 ##############Australia################
 
+#EXTINF:-1 tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/au/images/tv.320203000301.png",SBS
+https://i.mjh.nz/au/Brisbane/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.320203000305" tvg-logo="https://i.mjh.nz/au/images/tv.320203000305.png",NITV
+https://i.mjh.nz/au/Brisbane/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.101204000401" tvg-logo="https://i.mjh.nz/au/images/tv.101204000401.png",Channel 9
+https://i.mjh.nz/au/Brisbane/tv.101204000401.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.101204000407" tvg-logo="https://i.mjh.nz/au/images/tv.101204000407.png",9Life
+https://i.mjh.nz/au/Brisbane/tv.101204000407.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.10120400040B" tvg-logo="https://i.mjh.nz/au/images/tv.10120400040B.png",9Go!
+https://i.mjh.nz/au/Brisbane/tv.10120400040B.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.10120400040A" tvg-logo="https://i.mjh.nz/au/images/tv.10120400040A.png",9Gem
+https://i.mjh.nz/au/Brisbane/tv.10120400040A.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/au/images/tv.101002210220.png",ABC NEWS
+https://i.mjh.nz/au/Brisbane/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/au/images/tv.101002210224.png",ABC ME
+https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="http://i.mjh.nz/au/images/tv.abckids.png",ABC KIDS
+https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.abc2" tvg-logo="https://i.mjh.nz/au/images/tv.abc2.png",ABC Comedy
+https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.101002410241" tvg-logo="https://i.mjh.nz/au/images/tv.101002410241.png",ABC
+https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="https://i.mjh.nz/au/images/tv.redbull.tv.png",Redbull TV
+https://i.mjh.nz/au/Brisbane/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-logo="https://i.mjh.nz/au/images/tv.fox.sports.news.png",Fox Sports News
+https://i.mjh.nz/au/Brisbane/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.acctv" tvg-logo="https://i.mjh.nz/au/images/tv.acctv.png",ACCTV
+https://i.mjh.nz/au/Brisbane/tv.acctv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iCiRwiD.png" group-title="AUSTRALIA",ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 
