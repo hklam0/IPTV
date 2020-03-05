@@ -683,3 +683,38 @@ http://203.162.235.41:16924
 #https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 ###########################################################TEST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RYm3X3W.png" group-title="IRELAND",RTÉ 1
+http://185.142.29.240:9981/stream/channelid/439248771
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RYm3X3W.png" group-title="IRELAND",RTÉ 1 (+1)
+http://185.142.29.240:9981/stream/channelid/551870964
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hZtoqq.png" group-title="IRELAND",RTÉ 2
+http://185.142.29.240:9981/stream/channelid/1021620325
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hZtoqq.png" group-title="IRELAND",RTÉ 2 (+1)
+http://185.142.29.240:9981/stream/channelid/1073142753
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TB3jwQO.png" group-title="IRELAND",RTÉ Jr. (Opt-1)
+https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TB3jwQO.png" group-title="IRELAND",RTÉ Jr. (Opt-2)
+http://185.142.29.240:9981/stream/channelid/1752912640
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRELAND",RTÉ News Now (Opt-1)
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRELAND",RTÉ News Now (Opt-2)
+http://185.142.29.240:9981/stream/channelid/1288479484
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SMvAjyK.png" group-title="IRELAND",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Am3E90P.png" group-title="IRELAND",Virgin Media 1
+http://185.142.29.240:9981/stream/channelid/1441750165
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a1RIARk.png" group-title="IRELAND",Virgin Media 2
+http://185.142.29.240:9981/stream/channelid/54953321
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCtaCdG.png" group-title="IRELAND",Virgin Media 3
+http://185.142.29.240:9981/stream/channelid/1639782501
