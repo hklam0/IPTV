@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>My web page</title>
+    <script src="https://cdn.jwplayer.com/libraries/lD5ufMLa.js"></script>
+  </head>
+  <body>
+    <h1>My Mixlr player!</h1>
+
+    <div id="player"></div>
+    <script type="text/javascript">
+      var playerInstance = jwplayer("player");
+      playerInstance.setup({
+  file: 'live/channel_31.m3u8',
+  type: 'hls',
+  allowfullscreen: true,
+  floating: false,
+  width: '100%',
+  aspectratio: '16:9'
+});
+    </script>
+
+  </body>
+</html>
