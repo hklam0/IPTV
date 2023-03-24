@@ -28,13 +28,9 @@ https://cdn.hklive.tv/xxxx/85/index.m3u8
 https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hklive.tv/png_logo/99.png" group-title="[Viu] 香港電視娛樂",ViuTV
 https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:-1 tvg-id="108" tvg-name="有線 財經資訊台" tvg-logo="https://www.hklive.tv/png_logo/108.png" group-title="[i-cable] 有線電視",有線 財經資訊台
-https://cdn.hklive.tv/xxxx/108/index.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="有線 新聞台" tvg-logo="https://www.hklive.tv/png_logo/109.png" group-title="[i-cable] 有線電視",有線 新聞台
-https://cdn.hklive.tv/xxxx/109/index.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="有線 直播新聞台" tvg-logo="https://www.hklive.tv/png_logo/110.png" group-title="[i-cable] 有線電視",有線 直播新聞台
-https://cdn.hklive.tv/xxxx/110/index.m3u8
-#EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://www.hklive.tv/png_logo/332.png" group-title="[Now-TV] 電訊盈科媒電視",Now 新聞台
-https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png?20210731015729",Sky News
 plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE&play=1
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/693/619/png-transparent-united-states-abc-news-american-broadcasting-company-logo-abc-television-text-news.png",ABC News Live
+plugin://plugin.video.youtube/play/?video_id=w_Ma8oQLmSM&play=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png",Channel News Asia
+plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ&play=1
