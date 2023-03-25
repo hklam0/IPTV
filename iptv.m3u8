@@ -40,3 +40,7 @@ plugin://plugin.video.youtube/play/?video_id=ylYJSBUgaMA&play=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="News" , TVBS新聞台
 plugin://plugin.video.youtube/play/?video_id=2mCSYvcfhtc&play=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TVBS_Media_Inc_LogoV2.svg" group-title="News" , TVBS 56頻道
+plugin://plugin.video.youtube/play/?video_id=YvdcZ_jpLXE&play=1
+
