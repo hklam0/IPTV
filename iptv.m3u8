@@ -1,11 +1,11 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png?20210731015729" group-title="News",Sky News
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml"
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png?20210731015729" group-title="News",Sky News
 plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE&play=1
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/693/619/png-transparent-united-states-abc-news-american-broadcasting-company-logo-abc-television-text-news.png" group-title="News",ABC News Live
 plugin://plugin.video.youtube/play/?video_id=w_Ma8oQLmSM&play=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" group-title="News",Channel News Asia
+#EXTINF:-1 tvg-id="CNA.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" group-title="News",Channel News Asia
 plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ&play=1
 
 #EXTINF:-1 tvg-id="USBB2200014DK" tvg-chno="1008" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20220712T041422SQUARE.png_20220712041422.png" group-title="News" , NBC News NOW
@@ -14,7 +14,7 @@ plugin://plugin.video.youtube/play/?video_id=og1gAgNsljM&play=1
 #EXTINF:-1 tvg-id="USBC39000171G" tvg-chno="1007" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20230307T222314SQUARE.png_20230307222314.png" group-title="News" , ABC News Live
 plugin://plugin.video.youtube/play/?video_id=w_Ma8oQLmSM&play=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News" , France 24 English
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News" , France 24 English
 plugin://plugin.video.youtube/play/?video_id=h3MuIUNCCzI&play=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="News" , DW News English
