@@ -20,23 +20,23 @@ plugin://plugin.video.youtube/play/?video_id=h3MuIUNCCzI&play=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="News" , DW News English
 plugin://plugin.video.youtube/play/?video_id=dZvHWVKY-AQ&play=1
 
-#EXTINF:-1 group-title="News" , 華視新聞台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="News" , 華視新聞台
 plugin://plugin.video.youtube/play/?video_id=wM0g8EoUZ_E&play=1
 
-#EXTINF:-1 group-title="News" , 寰宇新聞台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png" group-title="News" , 寰宇新聞台
 plugin://plugin.video.youtube/play/?video_id=B7Zp3d6xXWw&play=1
 
-#EXTINF:-1 group-title="News" , 三立新聞台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="News" , 三立新聞台
 plugin://plugin.video.youtube/play/?video_id=FoBfXvlOR6I&play=1
 
-#EXTINF:-1 group-title="News" , 台視新聞台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" group-title="News" , 台視新聞台
 plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8&play=1
 
-#EXTINF:-1 group-title="News" , 中視新聞台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" group-title="News" , 中視新聞台
 plugin://plugin.video.youtube/play/?video_id=TCnaIE_SAtM&play=1
 
-#EXTINF:-1 group-title="News" , 民視新聞台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" group-title="News" , 民視新聞台
 plugin://plugin.video.youtube/play/?video_id=ylYJSBUgaMA&play=1
 
-#EXTINF:-1 group-title="News" , TVBS新聞台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="News" , TVBS新聞台
 plugin://plugin.video.youtube/play/?video_id=2mCSYvcfhtc&play=1
