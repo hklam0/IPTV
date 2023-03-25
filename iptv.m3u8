@@ -40,3 +40,6 @@ plugin://plugin.video.youtube/play/?video_id=ylYJSBUgaMA&play=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="News" , TVBS新聞台
 plugin://plugin.video.youtube/play/?video_id=2mCSYvcfhtc&play=1
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV" , CCTV-1
+http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_sopikaiz_key2AB8E8A318A0664BD127D8DB16398ACF87774AA6DF177ACA9F5251DCC756FFE2FA3E097BDCAC901D564E74F5F2AB11C9E5D5DC20BD3FBCBCB95E3AAA1DBA773BD4DA436A3E056D100BE9CE7A65A52CBA831430CB4E20E9FB878CC3C08FEBD1374BB1B34B2237823E989D7C3994716FA5_/live/cctv1hd8m/8000000/d1.m3u8
