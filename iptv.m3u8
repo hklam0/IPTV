@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png?20210731015729" group-title="News",Sky News
 plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE&play=1
 
@@ -20,7 +20,7 @@ plugin://plugin.video.youtube/play/?video_id=h3MuIUNCCzI&play=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="News" , DW News English
 plugin://plugin.video.youtube/play/?video_id=dZvHWVKY-AQ&play=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="News" , 華視新聞台
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="News" , 華視新聞台
 plugin://plugin.video.youtube/play/?video_id=wM0g8EoUZ_E&play=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png" group-title="News" , 寰宇新聞台
@@ -38,9 +38,9 @@ plugin://plugin.video.youtube/play/?video_id=TCnaIE_SAtM&play=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" group-title="News" , 民視新聞台
 plugin://plugin.video.youtube/play/?video_id=ylYJSBUgaMA&play=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="News" , TVBS新聞台
+#EXTINF:-1 tvg-id="6073" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="News" , TVBS新聞台
 plugin://plugin.video.youtube/play/?video_id=2mCSYvcfhtc&play=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TVBS_Media_Inc_LogoV2.svg" group-title="News" , TVBS 56頻道
+#EXTINF:-1 tvg-id="6074" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TVBS_Media_Inc_LogoV2.svg" group-title="News" , TVBS 56頻道
 plugin://plugin.video.youtube/play/?video_id=YvdcZ_jpLXE&play=1
 
