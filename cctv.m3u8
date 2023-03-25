@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="" group-title="CCTV",CCTV-1 綜合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/CCTV-1_Logo.png" group-title="CCTV",CCTV-1 綜合
 http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_umplxkng_keyDA11CEF1DDCED8A49A583BBF637BA63984CD327A500122F0E73DD0A3C73E622A65B90472DDE9C10167A3CE2EAE1BD2B18131477448E8128D87E8C25EF5506A72BCE2CAFF2CDA6113AE774FE5CE77FD535AAF584BF97524CB65F2571DF90DEE38F35F3924B1594E5BF081B72B093BCAD1_/live/cctv1hd8m/8000000/d1.m3u8
 
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="" group-title="CCTV",CCTV-2 財經
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/CCTV2.png/revision/latest/scale-to-width-down/1000?cb=20230104103724&path-prefix=vi" group-title="CCTV",CCTV-2 財經
 http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_deedgazf_keyBE1740ED065EA368799B4E7D13C56B9EA26FA35C7016C631CE3B2FBD467BCCD546DAB74C7E40ADF7E00176B8CD52B073DC2D8C3F0D2EF2BDE2E687A8EE614A78327C72F913E67D0F985D887032B6B2E8F0221B01694D63A120E5FD333DD5026D5C38726D839CEBD637A4B9CEF626B179_/live/cctv2hd8m/8000000/d1.m3u8
 
