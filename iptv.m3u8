@@ -26,7 +26,7 @@ plugin://plugin.video.youtube/play/?video_id=FoBfXvlOR6I&play=1
 #EXTINF:-1 tvg-id="6143" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" group-title="News" , 台視新聞台
 plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8&play=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" group-title="News" , 中視新聞台
+#EXTINF:-1 tvg-id="7176" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" group-title="News" , 中視新聞台
 plugin://plugin.video.youtube/play/?video_id=TCnaIE_SAtM&play=1
 
 #EXTINF:-1 tvg-id="6071" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" group-title="News" , 民視新聞台
