@@ -14,10 +14,10 @@ plugin://plugin.video.youtube/play/?video_id=dZvHWVKY-AQ&play=1
 #EXTINF:-1 tvg-name= tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="News" , 華視新聞台
 plugin://plugin.video.youtube/play/?video_id=wM0g8EoUZ_E&play=1
 
-#EXTINF:-1 tvg-id="6069" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png" group-title="News" ,  東森新聞 51 頻道
+#EXTINF:-1 tvg-id="6069" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/EBC_News_logo_20150706.jpg" group-title="News" ,  東森新聞 51 頻道
 plugin://plugin.video.youtube/play/?video_id=R2iMq5LKXco&play=1
 
-#EXTINF:-1 tvg-id="6075" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png" group-title="News" ,  東森財經新聞
+#EXTINF:-1 tvg-id="6075" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="News" ,  東森財經新聞
 plugin://plugin.video.youtube/play/?video_id=WHEPzbFA3hw&play=1
 
 #EXTINF:-1 tvg-id="6072" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="News" , 三立新聞台
@@ -37,24 +37,3 @@ plugin://plugin.video.youtube/play/?video_id=2mCSYvcfhtc&play=1
 
 #EXTINF:-1 tvg-id="6074" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TVBS_Media_Inc_LogoV2.svg" group-title="News" , TVBS 56頻道
 plugin://plugin.video.youtube/play/?video_id=YvdcZ_jpLXE&play=1
-
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1 綜合
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_umplxkng_keyDA11CEF1DDCED8A49A583BBF637BA63984CD327A500122F0E73DD0A3C73E622A65B90472DDE9C10167A3CE2EAE1BD2B18131477448E8128D87E8C25EF5506A72BCE2CAFF2CDA6113AE774FE5CE77FD535AAF584BF97524CB65F2571DF90DEE38F35F3924B1594E5BF081B72B093BCAD1_/live/cctv1hd8m/8000000/d1.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV-2 財經
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_deedgazf_keyBE1740ED065EA368799B4E7D13C56B9EA26FA35C7016C631CE3B2FBD467BCCD546DAB74C7E40ADF7E00176B8CD52B073DC2D8C3F0D2EF2BDE2E687A8EE614A78327C72F913E67D0F985D887032B6B2E8F0221B01694D63A120E5FD333DD5026D5C38726D839CEBD637A4B9CEF626B179_/live/cctv2hd8m/8000000/d1.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV-3 綜藝
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_czpxpvdd_key08DC330D750EA8086CF6C09A317E9CBF09EAA79F2B0B0FDFDEF90BBF91021F4F9A6E12EFC2F08F7104A4B4C7F04574083C77D402B83B852392ED8C00736BE269C581A861D2604D5B42692D4E3146E3E765EF1EA145A69D1FEBCD8E08D07614942E67CA4E2E7659ECD457E1C50650D3E8_/live/cctv3hd/4000000/d1.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV-4 中文國際
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_ghnmeipp_key38FB101080816324E7B5F9A4CF3006F4CE2694FE6612B80D21CCA447CFF5AD8FB1812E22CD63A1F03B3F1A0518A332C37D7B25F465348403444EC10DCFC7126E71EFECC79132BC46AC5BD361760175B8FACCBF478705F62FC7E20783D7EA32714C6282C3DA8C7BCAFB596DF11831BABD_/live/cctv4hd8m/8000000/d1.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV-5 體育
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_vlkuhmqs_key69144CEF7ABD2ADD1D36B9BA76856F2273207355C2464FD6A3631752360F6C48F31B525DD465F82A7050599E3CD84D8DFDC34A6B4B69675374490A4391D7CCD6BB7BB1E5B29D40A4609DC18B29A30028799B34A5571FAB115652985A568368E9961E70CB56392415905698953C2499C0_/live/cctv5hd/4000000/d1.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV-5+ 體育賽事
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_jbgaqxue_key392A4982D7EABAAEBBD2320514150F1B17BB44F987B21B4ABC4F64424F7F5027DDCDB1FAC9D4116925DA4F799F3BE035290CD7088B08E5CA73749D5A004C25D68674CC3229B97C469F3D3FA23D279E3F9B91E9192E24AB5250AD1C6693B5CBC010A92447339D0157E0D793C600EF047B4BD0AB83AC1D64014C525D5767E762D8_/live/cctv5phd8m/8000000/d1.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV-6 電影
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_nsencame_key50849D54042D1756C25F4B2AD108CD639C4F0EE7E4A215B4AF5D7B79D3F54A8C57F89DC5C6BD0CCEB685D2F19DAED7A4DF5EF2FC9F0320121250B5AC39D86F61FDBB0C0C6FC0E397D9C11F9380E686A6566AA9EBB2173D310A4BBD2FB5B075EC1DE89F3020BB9CC80CD2639CDF245DCC_/live/cctv6hd/4000000/d1.m3u8
