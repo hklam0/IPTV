@@ -37,3 +37,28 @@ plugin://plugin.video.youtube/play/?video_id=2mCSYvcfhtc&play=1
 
 #EXTINF:-1 tvg-id="6074" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TVBS_Media_Inc_LogoV2.svg" group-title="News" , TVBS 56頻道
 plugin://plugin.video.youtube/play/?video_id=YvdcZ_jpLXE&play=1
+
+#EXTINF:-1,tvg-logo="https://www.rthk.hk/img/radio_icon/ChannelPage_Logo/radio_R1_logo.svg" group-title="radio" radio="true",RTHK 1
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.rthk.hk/img/radio_icon/ChannelPage_Logo/radio_R2_logo.svg" group-title="radio" radio="true",RTHK 2
+https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.rthk.hk/img/radio_icon/ChannelPage_Logo/radio_R2_logo.svg" group-title="radio" radio="true",RTHK 3
+https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.rthk.hk/img/radio_icon/ChannelPage_Logo/radio_R3_logo.svg" group-title="radio" radio="true",RTHK 4
+https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.rthk.hk/img/radio_icon/ChannelPage_Logo/radio_R4_logo.svg" group-title="radio" radio="true",RTHK 5
+https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.rthk.hk/img/radio_icon/ChannelPage_Logo/radio_R5_logo.svg" group-title="radio" radio="true",RTHK PTH
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.rthk.hk/img/radio_06_logo.svg" group-title="radio" radio="true",CNR/HK
+https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.rthk.hk/img/radio_CMG_logo.svg" group-title="radio" radio="true",CMG/RGB
+https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8
+
