@@ -8,11 +8,11 @@ http://cdn-m3u.hkdtmb.com/33/index.m3u8?token=wDyKddWCKSpxjl6wIuVurg&expires=173
 #EXTINF:-1 tvg-id="34" tvg-name="CGTN紀錄頻道" tvg-logo="https://www.hkdtmb.com/png_logo/34.png" group-title="[RTHK] 香港電台",CGTN紀錄頻道
 http://cdn-m3u.hkdtmb.com/34/index.m3u8?token=9zBb1opcGdsqIITQS-qaKw&expires=1730495498
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="[Fan] 奇妙電視",HOY TV
-http://cdn-m3u.hkdtmb.com/77/index.m3u8?token=taUXQ5vwGqQT56e3iIyseQ&expires=1730495498
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/78.png" group-title="[Fan] 奇妙電視",HOY TV 資訊台
-http://cdn-m3u.hkdtmb.com/78/index.m3u8?token=X1t0758UWA7_OKCbWkJmPg&expires=1730495498
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="[Fan] 奇妙電視",香港國際財經台
-http://cdn-m3u.hkdtmb.com/76/index.m3u8?token=JFzOuJomxOl0b3-scaUfzw&expires=1730495498
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
 http://cdn-m3u.hkdtmb.com/81/index.m3u8?token=o7EV8yGEhl7cWvLmwf3JaQ&expires=1730495498
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",J2台
