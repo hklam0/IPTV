@@ -9,5 +9,5 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="[Fan] 奇妙電視",香港國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-
+#EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/ch332_160_115.png" group-title="[Now TV] 電訊盈科媒體",Now 新聞台
 http://sc2022.stream-link.org/tv2306.php?id=c03
