@@ -1,53 +1,11 @@
-#EXTM3U x-tvg-url="https://epg.hkdtmb.com"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
-http://cdn-m3u.hkdtmb.com/31/index.m3u8?token=ng8TP0LERJVXTGcOXba24g&expires=1730495498
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視32
-http://cdn-m3u.hkdtmb.com/32/index.m3u8?token=ZKzkC6kQGJQ82uVjhWyOCw&expires=1730495498
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="[RTHK] 香港電台",港台電視33
-http://cdn-m3u.hkdtmb.com/33/index.m3u8?token=wDyKddWCKSpxjl6wIuVurg&expires=1730495498
-#EXTINF:-1 tvg-id="34" tvg-name="CGTN紀錄頻道" tvg-logo="https://www.hkdtmb.com/png_logo/34.png" group-title="[RTHK] 香港電台",CGTN紀錄頻道
-http://cdn-m3u.hkdtmb.com/34/index.m3u8?token=9zBb1opcGdsqIITQS-qaKw&expires=1730495498
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="[Fan] 奇妙電視",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/78.png" group-title="[Fan] 奇妙電視",HOY TV 資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="[Fan] 奇妙電視",香港國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
-http://cdn-m3u.hkdtmb.com/81/index.m3u8?token=o7EV8yGEhl7cWvLmwf3JaQ&expires=1730495498
-#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",J2台
-http://cdn-m3u.hkdtmb.com/82/index.m3u8?token=e9do5l50M_HMOcikF7wVTQ&expires=1730495498
-#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫新聞台
-http://cdn-m3u.hkdtmb.com/83/index.m3u8?token=KrDkMRm3kSngLTwkzKHD0g&expires=1730495498
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明珠台
-http://cdn-m3u.hkdtmb.com/84/index.m3u8?token=4MpwdkD4ebexHj7Na5YbVw&expires=1730495498
-#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="[TVB] 電視廣播",無綫財經·資訊台
-http://cdn-m3u.hkdtmb.com/85/index.m3u8?token=zn0olddD-8ECEnLDcU_bRQ&expires=1730495498
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="[Viu] 香港電視娛樂",ViuTV
-http://cdn-m3u.hkdtmb.com/99/index.m3u8?token=XMD6G9PzM8Id36_ekHJr3g&expires=1730495498
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTVSix" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="[Viu] 香港電視娛樂",ViuTVSix
-http://cdn-m3u.hkdtmb.com/96/index.m3u8?token=vL23ZWGcV-lYg7Sjs2JLIA&expires=1730495498
-#EXTINF:-1 tvg-id="001" tvg-name="SUPER FREE" tvg-logo="https://www.hkdtmb.com/png_logo/mytv.png" group-title="[MyAVSpuer] 賣咸濕婆",SUPER FREE
-http://cdn-02.hkdtmb.com/001/index.m3u8?token=6BGSOEQkryClb0JZb1NCgQ&expires=1730495498
-#EXTINF:-1 tvg-id="100" tvg-name="Hands Up Channel" tvg-logo="https://www.hkdtmb.com/png_logo/mytv.png" group-title="[MyAVSpuer] 賣咸濕婆",Hands Up Channel
-http://cdn-02.hkdtmb.com/100/index.m3u8?token=aB5eQnRnOwESbjrv6IYR2w&expires=1730495498
-#EXTINF:-1 tvg-id="201" tvg-name="美亞電影台" tvg-logo="https://www.hkdtmb.com/png_logo/mytv.png" group-title="[MyAVSpuer] 賣咸濕婆",美亞電影台
-http://cdn-02.hkdtmb.com/201/index.m3u8?token=ygj4FEa012m6IdvVl_X3OQ&expires=1730495498
-#EXTINF:-1 tvg-id="504" tvg-name="Animax" tvg-logo="https://www.hkdtmb.com/png_logo/mytv.png" group-title="[MyAVSpuer] 賣咸濕婆",Animax
-http://cdn-02.hkdtmb.com/504/index.m3u8?token=snWaF9oTOwDxEP3xVfLtQQ&expires=1730495498
-#EXTINF:-1 tvg-id="981" tvg-name="翡翠台 4K" tvg-logo="https://www.hkdtmb.com/png_logo/mytv.png" group-title="[MyAVSpuer] 賣咸濕婆",翡翠台 4K
-http://cdn-02.hkdtmb.com/981/index.m3u8?token=47z6cihPXFbNUQF3oBtbkw&expires=1730495498
-#EXTINF:-1 tvg-id="102" tvg-name="Viu 頻道" tvg-logo="https://www.hkdtmb.com/png_logo/ch102_160_115.png" group-title="[Now TV] 電訊盈科媒體",Viu 頻道
-http://cdn-02.hkdtmb.com/102/index.m3u8?token=lRJITL7B9XQFMhfX6JW2qw&expires=1730495498
-#EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/ch332_160_115.png" group-title="[Now TV] 電訊盈科媒體",Now 新聞台
-http://cdn-02.hkdtmb.com/332/index.m3u8?token=MeMIjjh8n-hgkzGv1w0VMQ&expires=1730495498
-#EXTINF:-1 tvg-id="621" tvg-name="Now 體育 英超1台" tvg-logo="https://www.hkdtmb.com/png_logo/ch631_160_115.png" group-title="[Now TV] 電訊盈科媒體",Now 體育 英超1台
-http://cdn-02.hkdtmb.com/621/index.m3u8?token=15jGbMPHCYSIlFq9wPfYBA&expires=1730495498
-#EXTINF:-1 tvg-id="630" tvg-name="Now 體育 精選" tvg-logo="https://www.hkdtmb.com/png_logo/ch630_160_115.png" group-title="[Now TV] 電訊盈科媒體",Now 體育 精選
-http://cdn-02.hkdtmb.com/630/index.m3u8?token=dz4Mra_xOj0JL1M4fxriSA&expires=1730495498
-#EXTINF:-1 tvg-id="631" tvg-name="Now 體育 1台" tvg-logo="https://www.hkdtmb.com/png_logo/ch631_160_115.png" group-title="[Now TV] 電訊盈科媒體",Now 體育 1台
-http://cdn-02.hkdtmb.com/631/index.m3u8?token=YzDddgeMiSpKxlqMCEEEXA&expires=1730495498
-#EXTINF:-1 tvg-id="621" tvg-name="Now 體育 2台" tvg-logo="https://www.hkdtmb.com/png_logo/ch632_160_115.png" group-title="[Now TV] 電訊盈科媒體",Now 體育 2台
-http://cdn-02.hkdtmb.com/632/index.m3u8?token=v3J4boLhfqATsk_N0r8WVg&expires=1730495498
-#EXTINF:-1 tvg-id="633" tvg-name="Now 體育 3台" tvg-logo="https://www.hkdtmb.com/png_logo/ch633_160_115.png" group-title="[Now TV] 電訊盈科媒體",Now 體育 3台
-http://cdn-02.hkdtmb.com/633/index.m3u8?token=BBCh5qVQbTl780oYKMnFAQ&expires=1730495498
