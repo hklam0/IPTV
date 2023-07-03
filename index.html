@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <script src="https://news.now.com/site/pccw-player-web/js/NMAF.js?v=2"></script>
+    <script src="https://news.now.com/site/pccw-player-web/js/NMAFOTT.js?v=5"></script>
+    <script src="https://news.now.com//site/pccw-player-web/js/NMAFMPC.js?v=1"></script>
+    <script src="https://news.now.com/site/pccw-player-web/js/NMAFMPC_SA.js?v=1"></script> -->
+    <script src="NMAF.js"></script>
+    <script src="NMAFOTT.js"></script>
+</head>
+<body>
+    <script>
+            NMAFFramework.initializeFramework({"appId":"10","buildType":"SIT","appVersion":"5.1.0","language":"zh-tw","NMAFNInitParam_ApiPrefix":"https://webtvapi.now.com/10/7"});
+            var levels = [];
+            var values = [];
+            var frameLayout = 'html5Player';
+
+           
+            function initMediaPlayer(contentId) {
+            	//history.pushState({}, contentId, "?contentId=" + contentId);
+                NMAFOTTCheckout.getLiveUrl(contentId, function(errorNumber, checkoutData) {
+                    // checkoutData.checkoutResponse.vast = "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_preroll_skippable&sz=640x480&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=";
+					checkoutData.checkoutResponse.vast = "https://pubads.g.doubleclick.net/gampad/ads?sz=1280x720&iu=/94348418/nownews_web_ros_preroll&ciu_szs&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]&cust_params=Now_newsLive%3Dtrue";
+
+                    console && console.log(37, checkoutData);
+                    if (errorNumber == NMAFErrorCodes.NMAFERR_GEN_SUCCESS) {
+                        NMAFLogging.log(checkoutData);
+                        
+                        NMAFMediaPlayerController.NMAFMediaPlayer(frameLayout, checkoutData, 1, function(errorCode) {
+                            // switch(errorCode) {
+                            //     case NMAFErrorCodes.NMAFERR_PLAYER_GENERIC:
+                            //     alert("Player error (10007)");
+                            //     break;
+                            //     case NMAFErrorCodes.NMAFERR_PLAYER_CONCURRENT:
+                            //     alert("Concurrent error (80025)");
+                            //     break;
+                            //     default:
+                            //     alert("Error ("+errorCode+")");
+                            //     break;
+                            // }
+							console && console.log(75, errorCode);
+                            window.alert('連續串流播放時限已過，請刷新頁面以繼續觀看，或下載 NowNews應用程式以獲得更佳的觀看體驗。');
+                        });
+                    } else {
+                        //window.alert('API Failed (' + errorNumber + ')\n' + (checkoutData?('responseCode=' + checkoutData.checkoutResponse.responseCode):''));
+						window.alert('連續串流播放時限已過，請刷新頁面以繼續觀看，或下載 NowNews應用程式以獲得更佳的觀看體驗。');
+                    }
+                });
+            }
+
+            $(function(){ 
+                var epg = new NowEPG();
+                var $programName = $("#programName");
+                
+                epg.onDataUpdate = function(channelId, data){
+                    $programName.text(data.title).attr("title", data.title);
+                };
+                epg.getEPG("332");
+            });
+            
+            
+            
+            (function(a){
+                initMediaPlayer(a);
+            }("332")) //comment test
+    </script>
+</body>
+</html>
