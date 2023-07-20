@@ -1,17 +1,25 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="港台電視34" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視34
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="港台電視35" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視35
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="HOY TV" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="[Fan] 奇妙電視",HOY TV
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="7119" tvg-name="HOY TV 資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/78.png" group-title="[Fan] 奇妙電視",HOY TV 資訊台
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="7117" tvg-name="香港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="[Fan] 奇妙電視",香港國際財經台
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTM3U x-tvg-url="https://epg.hkdtmb.com"
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://www.hklive.tv/png_logo/31.png",港台電視 31
+http://205.185.118.224:8080/stream/channelid/458494908?profile=pass
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://www.hklive.tv/png_logo/32.png",港台電視 32
+http://205.185.118.224:8080/stream/channelid/403941429?profile=pass
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://www.hklive.tv/png_logo/76.png",HKIBC
+http://205.185.118.224:8080/stream/channelid/1426008357?profile=pass
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://www.hklive.tv/png_logo/77.png",HOY TV
+http://205.185.118.224:8080/stream/channelid/94433914?profile=pass
+#EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://www.hklive.tv/png_logo/78.png",HOY Info
+http://205.185.118.224:8080/stream/channelid/79383064?profile=pass
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hklive.tv/png_logo/81.png",TVB Jade
+http://205.185.118.224:8080/stream/channelid/465427371?profile=pass
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.hklive.tv/png_logo/82.png",TVB J2
+http://205.185.118.224:8080/stream/channelid/1296055115?profile=pass
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://www.hklive.tv/png_logo/83.png",TVB News
+http://205.185.118.224:8080/stream/channelid/1157081402?profile=pass
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://www.hklive.tv/png_logo/84.png",TVB Pearl
+http://205.185.118.224:8080/stream/channelid/2038984902?profile=pass
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hklive.tv/png_logo/85.png",TVB FSI
+http://205.185.118.224:8080/stream/channelid/194179799?profile=pass
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://www.hklive.tv/png_logo/96.png",ViuTV Six
+http://205.185.118.224:8080/stream/channelid/940647017?profile=pass
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hklive.tv/png_logo/99.png",ViuTV
+http://205.185.118.224:8080/stream/channelid/837813935?profile=pass
